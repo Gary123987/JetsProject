@@ -6,4 +6,4 @@ In this project, we create an Airfield array that contains several Jet objects. 
 Java-OOP, Eclipse IDE, GitHub, Sublime
 
 #Lessons Learned
-The first lesson I learned was the importance of understanding when and where to cast objects. When trying to call interface methods for the specialty types of jets, they had to be casted to the corresponding type. The next lesson learned is that creating a local jet, to be used in for loops and while loops, is helpful for comparing jets. 
+The first lesson I learned was the importance of understanding when and where to cast objects. When trying to call interface methods for the specialty types of jets, they had to be casted to the corresponding type. The next lesson learned is that creating a local jet, to be used in for loops and while loops, is helpful for comparing jets.  
