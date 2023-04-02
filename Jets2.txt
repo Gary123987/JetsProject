@@ -1,0 +1,5 @@
+Drone,Reaper,200,8000,40,50
+Fighter,Lightning,800,3000,25
+Fighter,Lightning II,1000,4000,35
+Cargo,Hercules,500,7000,50,300
+Bomber,Spirit,600,10000,70,Nukes
